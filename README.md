@@ -4,5 +4,4 @@ Voidchat is an anonymous chat platform that doesn’t require registration. You 
 
 ## Development Status
 
-Voidchat is currently a work in progress, with active development ongoing. Some features may be incomplete or subject to change as we continue to build and refine the website.
-
+Voidchat is in the early stages of development. Core features are still being built out and many aspects of the platform are subject to change as development progresses. Incomplete features and potential bugs are expected.
