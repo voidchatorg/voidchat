@@ -12,10 +12,6 @@ Featured chat rooms:
   - [v/hungary](https://voidchat.org/v/hungary) magyar chat (hungarian chat)
   - [v/politics](https://voidchat.org/v/politics) politics chat room
 
-## Development Status
-
-Voidchat is in the early stages of development. Core features are still being built out and many aspects of the platform are subject to change as development progresses. Incomplete features and potential bugs are expected.
-
 ## Credits
 
 Voidchat is built on open-source technologies:
