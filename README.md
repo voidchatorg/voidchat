@@ -11,6 +11,7 @@ Featured chat rooms:
   - [v/vent](https://voidchat.org/v/vent) anonymous venting
   - [v/hungary](https://voidchat.org/v/hungary) magyar chat (hungarian chat)
   - [v/politics](https://voidchat.org/v/politics) politics chat room
+  - [v/test](https://voidchat.org/v/test) testing channel
 
 ## Credits
 
