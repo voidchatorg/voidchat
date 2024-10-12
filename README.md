@@ -5,7 +5,7 @@ Voidchat is an anonymous chat platform that doesn’t require registration or an
 ![omegle alternatives](/images/voidchat-talk-to-strangers.png)
 *random chat is still wip*
 
-Featured chat rooms:
+List of chat rooms:
 
   - [v/general](https://voidchat.org) general chat
   - [v/vent](https://voidchat.org/v/vent) anonymous venting
