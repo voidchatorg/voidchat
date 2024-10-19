@@ -8,14 +8,13 @@ Voidchat is an anonymous chat platform that doesn’t require registration or an
 List of chat rooms:
 
   - [v/general](https://voidchat.org) general chat
-  - [v/vent](https://voidchat.org/v/vent) anonymous venting
   - [v/hungary](https://voidchat.org/v/hungary) magyar chat (hungarian chat)
   - [v/politics](https://voidchat.org/v/politics) politics chat room
   - [v/test](https://voidchat.org/v/test) testing channel
 
 ## Credits
 
-Voidchat is built on open-source technologies:
+Voidchat is built on open-source software:
 
   - [uWebSockets](https://github.com/uNetworking/uWebSockets)
   - [SQLite](https://www.sqlite.org)
