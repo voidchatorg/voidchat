@@ -8,8 +8,6 @@ Voidchat is an anonymous chat platform that doesn’t require registration or an
 List of chat rooms:
 
   - [v/general](https://voidchat.org) general chat
-  - [v/hungary](https://voidchat.org/v/hungary) magyar chat (hungarian chat)
-  - [v/politics](https://voidchat.org/v/politics) politics chat room
   - [v/test](https://voidchat.org/v/test) testing channel
 
 ## Credits
