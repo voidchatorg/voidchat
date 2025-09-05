@@ -27,7 +27,7 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
 ## Public Chat Rooms
 
   - [General Chat](https://voidchat.org/v/general)
-  - [Vent Chat](https://voidchat.org/v/vent)
+  - [Vent Chat](https://voidchat.org/v/vent) - [A chat for anonymous venting](https://github.com/voidchatorg/voidchat/wiki/A-Chat-for-Anonymous-Venting)
   - [UK Chat](https://voidchat.org/v/uk)
   - [Russia Chat](https://voidchat.org/v/russia)
   - [Germany Chat](https://voidchat.org/v/germany)
