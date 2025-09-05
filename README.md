@@ -1,13 +1,42 @@
 # [Voidchat: Anonymous Random Chat With Strangers](https://voidchat.org)
 
-Voidchat is an [anonymous chat](https://voidchat.org/chat) platform that doesn’t require registration or an account. You can match with random strangers based on common interests (similar to Omegle) or create your own chat room, which you can personalize with custom CSS, backgrounds and more.
+Voidchat is an [anonymous chat](https://voidchat.org/chat) platform that doesn't require registration or an account. Match with random strangers based on common interests (similar to Omegle) or create your own chat room for private & group chats.
+
+Voidchat retains messages, enabling conversations to be resumed later exactly where they left off. It also supports file uploads and media sharing, including images, documents, and other types of content.
 
 ![omegle alternatives](/images/voidchat-talk-to-strangers.png)
 *random chat is still wip*
+
+## Features
+
+  - **Persistent Chat History** - Conversations are saved, allowing you to continue discussions even after disconnecting.
+  - **File Uploads & Image Sharing** - Share images, video & voice clips, or other files during conversations. Uploads expire after 3 days. Max upload size is 10MB (per file).
+  - **Custom Emojis** - Supports most Discord emojis ([Twemoji](https://github.com/twitter/twemoji)) and emoji shortcodes (e.g., `:joy:` `:eyes:` `:sob:`) and a selection of popular meme emojis (`:kekw:` `:gigachad:`)
+  - **Emoji Reactions** (testing) - React instantly to messages with fun and expressive emojis.
+  - **Message Replies** (testing) - Keep track of context by replying directly to specific messages.
+  - **Temporary Chat Rooms** (testing) - Create rooms that automatically expire after a set time, perfect for short-term conversations.
+  - **Omegle Style Random Chat** (wip) - Match with strangers randomly and anonymously based on shared interests.
+  - **Password Protected Rooms** (wip) - Secure private rooms with a password so only invited users can join.
+  - **Customizable Chat UI** – Personalize chat rooms with custom themes, background images, and colors.
+  - **Community Rooms** – Join public chat rooms for countries, topics, or general discussions with strangers worldwide.
+
+## Public Chat Rooms
+
+  - [General Chat](https://voidchat.org/v/general)
+  - [Vent Chat](https://voidchat.org/v/vent)
+  - [UK Chat](https://voidchat.org/v/uk)
+  - [Russia Chat](https://voidchat.org/v/russia)
+  - [Germany Chat](https://voidchat.org/v/germany)
+  - [France Chat](https://voidchat.org/v/france)
+  - [Hungary Chat](https://voidchat.org/v/hungary)
+  - [Denmark Chat](https://voidchat.org/v/denmark)
 
 ## Credits
 
 Voidchat is built on open-source software:
 
-  - [uWebSockets](https://github.com/uNetworking/uWebSockets)
-  - [SQLite](https://www.sqlite.org)
+  - [Astro](https://astro.build) - fast and lightweight web framework
+  - [Svelte](https://svelte.dev) - reactive UI components
+  - [uWebSockets](https://github.com/uNetworking/uWebSockets) - high-performance networking
+  - [SQLite](https://www.sqlite.org) - simple, efficient database
+  - [Bun](https://bun.com) - modern JavaScript runtime
