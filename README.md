@@ -20,6 +20,10 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
   - **Customizable Chat UI** – Personalize chat rooms with custom themes, background images, and colors.
   - **Community Rooms** – Join public chat rooms for countries, topics, or general discussions with strangers worldwide.
 
+<img src="/images/voidchat.org_iphone_12_pro.png" width="240" alt="mobile chat">
+
+*mobile ui*
+
 ## Public Chat Rooms
 
   - [General Chat](https://voidchat.org/v/general)
