@@ -35,6 +35,13 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
   - [Hungary Chat](https://voidchat.org/v/hungary)
   - [Denmark Chat](https://voidchat.org/v/denmark)
 
+## Privacy and Data Handling
+
+  - **No Registration Required**: Users can join chat rooms without creating an account.
+  - **Data Collection**: Minimal data is collected, such as IP addresses and timestamps, primarily for abuse prevention.
+  - **Data Retention**: Access logs are retained for a maximum of seven days.
+  - **Data Security**: All data is encrypted with SSL/TLS during transmission, file uploads and database backups are also encrypted in cold storage.
+
 ## Credits
 
 Voidchat is built on open-source software:
