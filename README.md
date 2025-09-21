@@ -1,4 +1,4 @@
-# [Voidchat: Anonymous Random Chat With Strangers](https://voidchat.org)
+# [Voidchat: Free Anonymous Chat Rooms with File Sharing](https://voidchat.org)
 
 Voidchat is an [anonymous chat](https://voidchat.org/chat) platform that doesn't require registration or an account. Match with random strangers based on common interests (similar to Omegle) or create your own chat room for private & group chats.
 
@@ -10,7 +10,8 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
 ## Features
 
   - **Persistent Chat History** - Conversations are saved, allowing you to continue discussions even after disconnecting.
-  - **File Uploads & Image Sharing** - Share images, video & voice clips, or other files during conversations. Uploads expire after 3 days. Max upload size is 10MB (per file).
+  - **File Uploads & Image Sharing** - Share images, video & voice clips, or other files during conversations. Max upload size is 10MB (per file).
+  - **Ephemeral File Storage** — Files/images shared in a room expire after 3 days.
   - **Custom Emojis** - Supports most Discord emojis ([Twemoji](https://github.com/twitter/twemoji)) and emoji shortcodes (e.g., `:joy:` `:eyes:` `:sob:`) and a selection of popular meme emojis (`:kekw:` `:gigachad:`)
   - **Emoji Reactions** (testing) - React instantly to messages with fun and expressive emojis.
   - **Message Replies** (testing) - Keep track of context by replying directly to specific messages.
