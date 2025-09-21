@@ -12,7 +12,7 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
   - **Persistent Chat History** - Conversations are saved, allowing you to continue discussions even after disconnecting.
   - **File Uploads & Image Sharing** - Share images, video & voice clips, or other files during conversations. Max upload size is 10MB (per file).
   - **Ephemeral File Storage** — Files/images shared in a room expire after 3 days.
-  - **Custom Emojis** - Supports most Discord emojis ([Twemoji](https://github.com/twitter/twemoji)) and emoji shortcodes (e.g., `:joy:` `:eyes:` `:sob:`) and a selection of popular meme emojis (`:kekw:` `:gigachad:`)
+  - **Custom Emojis** - Supports most Discord emojis ([Twemoji](https://github.com/jdecked/twemoji)) and emoji shortcodes (e.g., `:joy:` `:eyes:` `:sob:`) and a selection of popular meme emojis (`:kekw:` `:gigachad:`)
   - **Emoji Reactions** (testing) - React instantly to messages with fun and expressive emojis.
   - **Message Replies** (testing) - Keep track of context by replying directly to specific messages.
   - **Temporary Chat Rooms** (testing) - Create rooms that automatically expire after a set time, perfect for short-term conversations.
