@@ -25,6 +25,14 @@ Voidchat retains messages, enabling conversations to be resumed later exactly wh
 
 *mobile ui*
 
+## [Temporary Chat Rooms](https://voidchat.org/temporary-chat)
+
+Voidchat now supports temporary chat rooms for ephemeral conversations.
+Messages and uploaded files in these rooms are automatically deleted 10 minutes after they are sent.
+Each room is assigned a random name for better privacy.
+
+[Read more in the blog post](https://voidchat.org/blog/introducing-temporary-chat-rooms-on-voidchat)
+
 ## Public Chat Rooms
 
   - [General Chat](https://voidchat.org/v/general)
